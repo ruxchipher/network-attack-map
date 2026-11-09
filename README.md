@@ -4,7 +4,7 @@ An animated world map of "live" cyber attacks: glowing arcs fly between cities,
 impacts pulse on arrival, and a feed scrolls past with a running counter. It is
 the kind of visual you see on a security operations centre wall.
 
-**Live:** https://siddique-12300983.github.io/network-attack-map/
+**Live:** https://ruxchipher.github.io/network-attack-map/
 
 ## This is a simulation
 
